@@ -1,4 +1,4 @@
-# YouTube Channel Video Downloader
+# YouTube Channel Video-Data Downloader
 
 This Python script allows you to fetch information about all the videos in a YouTube channel and store it in an Excel file.
 ## Requirements
